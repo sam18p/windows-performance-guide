@@ -1,0 +1,17 @@
+Startup apps
+
+Disabling unnecessary startup apps can help improve your Windows boot time whether you're using your OS on a HDD or SSD, and can help reduce background processes.
+
+Step 1.) Open task manager
+
+Hit Windows key and search "Task Manager" or use the shortcut on your keyboard "Control + Shift + Escape"
+
+Step 2.) Locate "Startup Apps"
+
+In this section you will see installed programs and/or Windows tools that have the status "Enabled" or "Disabled"
+
+You want to click on the apps you don't need opening when you turn your device on and click "Disable"
+
+Why? These apps are constantly starting up in the background every time you turn your computer on, slowing down the BIOS time and using more resources in the background.
+
+Once you've disabled all your desired programs, you can note down your "Last BIOS time:" and next time you turn on your computer that time should be reduced.
