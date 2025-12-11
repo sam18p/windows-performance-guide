@@ -1,0 +1,22 @@
+Windows uses small animations and effects that look nice but slow down older hardware, disabling these features can assist in your computer running smoother.
+
+Step 1.) Open the respective Windows setting
+
+Press Windows key and search "adjust the appearance of windows"
+
+Step 2.) Change these setting
+
+There are 2 options to do this, you can either:
+
+Select Adjust for best performance
+
+
+or manually uncheck things like:
+
+Fade animations
+
+Window transitions
+
+Transparent effects
+
+This makes the system feel much snappier without breaking anything.
