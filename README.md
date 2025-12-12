@@ -70,7 +70,6 @@ Below are some topics currently covered in this repository:
 | `heavy-visual-effects` | Adjust visual settings for speed |
 | `startup-apps` | Manage apps that start with Windows |
 
-*(Add more as you contribute new topics!)*
 
 ---
 
